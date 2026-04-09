@@ -12,7 +12,7 @@
   <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px">
 </picture>
 
-- 🎓 3rd-year Information Systems Engineering student (UNA, Costa Rica)  
+- 🎓 4th-year Information Systems Engineering student (UNA, Costa Rica)  
 - 💻 Strong interest in backend development & distributed systems  
 - 🔐 Interested in cybersecurity and networking  
 - ⚙️ Experience with low-level systems (C, sockets, multithreading)  
@@ -104,6 +104,8 @@ Includes message persistence, synchronization using mutexes and semaphores, and 
 
 **Tech:** C · TCP sockets · Threads · Mutexes · Semaphores  
 
+
+[Link:](https://github.com/AbrilUrcuyo/Message_Broker)
 ---
 
 ### 🔹 Medical Appointment System
@@ -114,17 +116,7 @@ Supports authentication with JWT, role-based access, scheduling, and user manage
 
 **Tech:** React · Spring Boot · Spring Security · MySQL  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" width="350"/>
-
-</div>
-
+[Link:](https://github.com/AbrilUrcuyo/ProyectoPrograIV_Citas2)
 ---
 
 ## 🤝 Let's Connect
