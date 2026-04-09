@@ -97,6 +97,8 @@ The desktop client (Python + SQLite) synchronizes a selected local folder with t
 
 ### 🔹 Distributed Message Broker (Mini-Kafka)
 
+[🔗 GitHub Repository](https://github.com/AbrilUrcuyo/Message_Broker)
+
 **What it does:**  
 A distributed messaging system inspired by Kafka, implemented in C.  
 Supports producers, a central broker, and consumer groups with round-robin load balancing.  
@@ -105,10 +107,11 @@ Includes message persistence, synchronization using mutexes and semaphores, and 
 **Tech:** C · TCP sockets · Threads · Mutexes · Semaphores  
 
 
-[Link:](https://github.com/AbrilUrcuyo/Message_Broker)
 ---
 
 ### 🔹 Medical Appointment System
+
+[🔗 GitHub Repository](https://github.com/AbrilUrcuyo/ProyectoPrograIV_Citas2)
 
 **What it does:**  
 A full-stack web application for managing medical appointments.  
@@ -116,7 +119,6 @@ Supports authentication with JWT, role-based access, scheduling, and user manage
 
 **Tech:** React · Spring Boot · Spring Security · MySQL  
 
-[Link:](https://github.com/AbrilUrcuyo/ProyectoPrograIV_Citas2)
 ---
 
 ## 🤝 Let's Connect
