@@ -13,8 +13,7 @@
 </picture>
 
 - 🎓 4th-year Information Systems Engineering student (UNA, Costa Rica)  
-- 💻 Strong interest in backend development & distributed systems  
-- 🔐 Interested in cybersecurity and networking  
+- 💻 Strong interest in backend development & distributed systems 
 - ⚙️ Experience with low-level systems (C, sockets, multithreading)  
 - 🧩 Familiar with software architecture patterns and clean design  
 - 📚 Self-taught mindset and continuous learning  
